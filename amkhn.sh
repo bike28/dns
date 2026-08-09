@@ -15,7 +15,7 @@ fi
 # ============================================================================
 SSHD_PORT=22
 SLOWDNS_PORT=5300
-GITHUB_BASE="https://raw.githubusercontent.com/bike28/dns"
+GITHUB_BASE="https://raw.githubusercontent.com/bike28/main/dns"
 
 # ============================================================================
 # MODERN COLORS & DESIGN
